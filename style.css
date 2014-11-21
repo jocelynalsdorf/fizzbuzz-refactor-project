@@ -1,0 +1,25 @@
+.main-wrapper {
+	min-width: 600px;
+	height: 700px;
+	margin-left:135px;
+	margin-right:135px;
+}
+
+span {
+	display: inline-block;
+	font-size: 0.8em;
+	padding: 3px 3px 3px 3px;
+}
+
+.f {
+	color: red;
+}
+
+.b {
+	color: green;
+
+}
+
+.fb {
+	color: blue;
+}
