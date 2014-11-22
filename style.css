@@ -1,4 +1,4 @@
-.main-wrapper {
+#main-wrapper {
 	min-width: 600px;
 	height: 700px;
 	margin-left:135px;
@@ -22,4 +22,11 @@ span {
 
 .fb {
 	color: blue;
+}
+#play-btn {
+    color: white;
+    background: grey;
+    font-size: 2em;
+    margin-top:25px;
+    
 }
